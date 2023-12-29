@@ -1,5 +1,6 @@
-## Hi there 👋
+## This is ZoneCommunity
 
+A place of experimentation and exploration
 <!--
 
 **Here are some ideas to get you started:**
