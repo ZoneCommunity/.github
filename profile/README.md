@@ -5,7 +5,7 @@
 
 Active projects:
 - parallel
-  - A web based desktop environment
+  - A web based desktop environment (and soon Linux distro)
 - ZoneOS Mesolite
   - PowerPoint based desktop environment
  
