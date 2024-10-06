@@ -4,7 +4,7 @@
 </div>
 
 Active projects:
-- parallel
+- [parallel](https://github.com/ZoneCommunity/parallel)
   - A web based desktop environment (and soon Linux distro)
 - ZoneOS Mesolite
   - PowerPoint based desktop environment
