@@ -4,11 +4,13 @@
 </div>
 
 Active projects:
-- [ZoneOS Mesolite](https://www.zonecommunity.net/zoneos/)
-  - PowerPoint based desktop environment/OS simulation
-- sierra (inactive)
+- parallel 2
+  - The new and improved parallel, now with sierra.
+- sierra
   - A modern web OS core, with advanced process management
- 
+- [ZoneOS Mesolite](https://www.zonecommunity.net/zoneos/) (inactive)
+  - PowerPoint based desktop environment/OS simulation
+
 Join our Discord and check out our site!<br>
 - [ZoneCommunity](https://www.zonecommunity.net)<br>
 - [Discord](https://discord.com/invite/WTVGAMPnzN)
