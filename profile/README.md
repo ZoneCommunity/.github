@@ -3,10 +3,10 @@
   <p>A place of experimentation and exploration</p>
 </div>
 
-Active projects:
-- parallel 2
+Main projects:
+- parallel 2 (inactive)
   - The new and improved parallel, now with sierra.
-- sierra
+- sierra (inactive)
   - A modern web OS core, with advanced process management
 - [ZoneOS Mesolite](https://www.zonecommunity.net/zoneos/) (inactive)
   - PowerPoint based desktop environment/OS simulation
